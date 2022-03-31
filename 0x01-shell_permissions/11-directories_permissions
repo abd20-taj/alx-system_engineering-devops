@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+rx $(pwd) 
+chmod a+x*  
